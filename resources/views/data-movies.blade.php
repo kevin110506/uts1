@@ -35,4 +35,5 @@
     <div class="d-flex justify-content-center">
         {{ $movies->links() }}
     </div>
+    <!-- katakatahariini -->
 @endsection
